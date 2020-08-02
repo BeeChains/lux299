@@ -1,30 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+Welcome to [lux299] a Top Level Blockchain Domain from referencing a project [Handshake](https://handshake.org).
 
 ## Getting Started
 
-First, run the development server:
+These domains are [1timefeedomains](www.home.1timefeedomains)...
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+We are building domains for [Marsapiens](https://beechains.github.io/home.marsapiens.github.io) that means they can live on mars using [IPFS like so](https://ipfs.io/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [b-the-spirit.crypto](https://gateway.pinata.cloud/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/)my Unstoppable Domain with pinata and IPFS. This is [an Unstoppable Domain](https://unstoppabledomains.com). It is also a [IPFS hosted site](https://ipfs.io/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/). Open with [Opera Browser](https://opera.com) to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/zeit/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Check out [IPFS here](https://ipfs.io/)!
