@@ -1,4 +1,4 @@
-Welcome to [lux299] a Top Level Blockchain Domain from referencing a project [Handshake](https://handshake.org).
+Welcome to [lux299] a Top Level Blockchain Domain on [Handshake Blockchain](https://handshake.org).
 
 ## Getting Started
 
