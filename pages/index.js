@@ -18,4 +18,4 @@ Check out [Unstoppable Domains here](https://unstoppabledomains.com)
 
 Interest in a blockchain domain or web buisness like these; [1timehandshake](www.home.1timehandshake) and [1timefeedomains](www.home.1timefeedomains)
 
-Email [bthespirit777@protonmail](https://protonmail.com) for more details.
+Email [bthespirit777@protonmail](https://protonmail.com) for more details!
