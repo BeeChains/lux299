@@ -1,4 +1,4 @@
-This is a blockchain domain, built to last. You can do the research but for now just trust me. Check-out a project by the name [Handshake](https://handshake.org).
+This is a blockchain domain, built to last! You can do the research but for now just trust me. Check-out a project by the name [Handshake](https://handshake.org).
 
 ![image](https://user-images.githubusercontent.com/37987346/88019792-8cbb3280-caf8-11ea-996a-0b79cf66c505.png)[Image From Science of Being](https://scienceofbeing.com)
 
